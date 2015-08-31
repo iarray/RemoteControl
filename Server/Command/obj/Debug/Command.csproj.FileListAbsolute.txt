@@ -1,0 +1,10 @@
+E:\项目\2014项目\5月\RemoteControl\Command\bin\Debug\Command.dll
+E:\项目\2014项目\5月\RemoteControl\Command\bin\Debug\Command.pdb
+E:\项目\2014项目\5月\RemoteControl\Command\obj\Debug\Command.csprojResolveAssemblyReference.cache
+E:\项目\2014项目\5月\RemoteControl\Command\obj\Debug\Command.dll
+E:\项目\2014项目\5月\RemoteControl\Command\obj\Debug\Command.pdb
+E:\项目\2014项目\毕业设计\RemoteControl\Command\bin\Debug\Command.dll
+E:\项目\2014项目\毕业设计\RemoteControl\Command\bin\Debug\Command.pdb
+E:\项目\2014项目\毕业设计\RemoteControl\Command\obj\Debug\Command.dll
+E:\项目\2014项目\毕业设计\RemoteControl\Command\obj\Debug\Command.pdb
+E:\项目\2014项目\毕业设计\RemoteControl\Command\obj\Debug\Command.csprojResolveAssemblyReference.cache

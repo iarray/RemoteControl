@@ -1,0 +1,7 @@
+E:\项目\2014项目\毕业设计\RemoteControl\Plugin\bin\Debug\Plugin.dll
+E:\项目\2014项目\毕业设计\RemoteControl\Plugin\bin\Debug\Plugin.pdb
+E:\项目\2014项目\毕业设计\RemoteControl\Plugin\bin\Debug\Command.dll
+E:\项目\2014项目\毕业设计\RemoteControl\Plugin\bin\Debug\Command.pdb
+E:\项目\2014项目\毕业设计\RemoteControl\Plugin\obj\Debug\Plugin.csprojResolveAssemblyReference.cache
+E:\项目\2014项目\毕业设计\RemoteControl\Plugin\obj\Debug\Plugin.dll
+E:\项目\2014项目\毕业设计\RemoteControl\Plugin\obj\Debug\Plugin.pdb

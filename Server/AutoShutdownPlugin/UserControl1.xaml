@@ -1,0 +1,15 @@
+﻿<UserControl x:Class="AutoShutdownPlugin.UserControl1"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             Height="300" Width="300">
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" Margin="32,91,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="116,88,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="49,218,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="161,218,0,0" VerticalAlignment="Top" Width="75"/>
+
+    </Grid>
+</UserControl>

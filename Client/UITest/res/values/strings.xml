@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, UITestActivity!</string>
+    <string name="app_name">口袋桌面</string>
+    <string name="show_toast">show_toast</string>
+    <string name="mouse_move_rang">鼠标移动幅度:</string>
+    <string name="img_quality">图像质量:</string>
+    <string name="show_model">桌面显示方式:</string>
+    <string name="showModel_fullScreen">全屏显示</string>
+    <string name="showModel_fallowMouse">跟随鼠标</string>
+    <string name="save_path">文件保存路径:</string>
+    <string name="file_manager">文件管理器</string>
+    <string name="plugin_manager">插件管理</string>
+
+</resources>

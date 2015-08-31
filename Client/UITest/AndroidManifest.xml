@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="hph.app.UITest"
+    android:sharedUserId="hph.app.PocketDesktop"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk android:minSdkVersion="8" />
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+
+    <application
+        android:icon="@drawable/appico"
+        android:label="@string/app_name" >
+        <activity
+            android:label="@string/app_name"
+            android:name=".UITestActivity" >
+            <intent-filter >
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity  android:name="hph.app.UITest.DeskTopSocketWithControlerActivity"></activity>
+        <activity  android:name="hph.app.UITest.FileManagerActivity"></activity>
+        <activity  android:name="hph.app.UITest.OptionsActivity"></activity>
+        <activity  android:name="hph.app.UITest.PluginManagerActivity"></activity>
+    </application>
+
+</manifest>

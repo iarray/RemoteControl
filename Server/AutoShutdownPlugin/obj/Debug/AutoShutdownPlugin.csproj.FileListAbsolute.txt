@@ -1,0 +1,15 @@
+E:\项目\2014项目\毕业设计\RemoteControl\AutoShutdownPlugin\bin\Debug\AutoShutdownPlugin.dll
+E:\项目\2014项目\毕业设计\RemoteControl\AutoShutdownPlugin\bin\Debug\AutoShutdownPlugin.pdb
+E:\项目\2014项目\毕业设计\RemoteControl\AutoShutdownPlugin\bin\Debug\Command.dll
+E:\项目\2014项目\毕业设计\RemoteControl\AutoShutdownPlugin\bin\Debug\Plugin.dll
+E:\项目\2014项目\毕业设计\RemoteControl\AutoShutdownPlugin\bin\Debug\Command.pdb
+E:\项目\2014项目\毕业设计\RemoteControl\AutoShutdownPlugin\bin\Debug\Plugin.pdb
+E:\项目\2014项目\毕业设计\RemoteControl\AutoShutdownPlugin\obj\Debug\AutoShutdownPlugin.csprojResolveAssemblyReference.cache
+E:\项目\2014项目\毕业设计\RemoteControl\AutoShutdownPlugin\obj\Debug\UserControl1.baml
+E:\项目\2014项目\毕业设计\RemoteControl\AutoShutdownPlugin\obj\Debug\UserControl1.g.cs
+E:\项目\2014项目\毕业设计\RemoteControl\AutoShutdownPlugin\obj\Debug\AutoShutdownPlugin_MarkupCompile.cache
+E:\项目\2014项目\毕业设计\RemoteControl\AutoShutdownPlugin\obj\Debug\AutoShutdownPlugin.g.resources
+E:\项目\2014项目\毕业设计\RemoteControl\AutoShutdownPlugin\obj\Debug\AutoShutdownPlugin.Properties.Resources.resources
+E:\项目\2014项目\毕业设计\RemoteControl\AutoShutdownPlugin\obj\Debug\AutoShutdownPlugin.csproj.GenerateResource.Cache
+E:\项目\2014项目\毕业设计\RemoteControl\AutoShutdownPlugin\obj\Debug\AutoShutdownPlugin.dll
+E:\项目\2014项目\毕业设计\RemoteControl\AutoShutdownPlugin\obj\Debug\AutoShutdownPlugin.pdb

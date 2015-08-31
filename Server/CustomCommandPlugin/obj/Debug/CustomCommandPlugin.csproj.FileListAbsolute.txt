@@ -1,0 +1,15 @@
+E:\项目\2014项目\毕业设计\RemoteControl\CustomCommandPlugin\bin\Debug\CustomCommandPlugin.dll
+E:\项目\2014项目\毕业设计\RemoteControl\CustomCommandPlugin\bin\Debug\CustomCommandPlugin.pdb
+E:\项目\2014项目\毕业设计\RemoteControl\CustomCommandPlugin\bin\Debug\Command.dll
+E:\项目\2014项目\毕业设计\RemoteControl\CustomCommandPlugin\bin\Debug\Plugin.dll
+E:\项目\2014项目\毕业设计\RemoteControl\CustomCommandPlugin\bin\Debug\Command.pdb
+E:\项目\2014项目\毕业设计\RemoteControl\CustomCommandPlugin\bin\Debug\Plugin.pdb
+E:\项目\2014项目\毕业设计\RemoteControl\CustomCommandPlugin\obj\Debug\CustomCommandPlugin.csprojResolveAssemblyReference.cache
+E:\项目\2014项目\毕业设计\RemoteControl\CustomCommandPlugin\obj\Debug\UserControl1.baml
+E:\项目\2014项目\毕业设计\RemoteControl\CustomCommandPlugin\obj\Debug\UserControl1.g.cs
+E:\项目\2014项目\毕业设计\RemoteControl\CustomCommandPlugin\obj\Debug\CustomCommandPlugin_MarkupCompile.cache
+E:\项目\2014项目\毕业设计\RemoteControl\CustomCommandPlugin\obj\Debug\CustomCommandPlugin.g.resources
+E:\项目\2014项目\毕业设计\RemoteControl\CustomCommandPlugin\obj\Debug\CustomCommandPlugin.Properties.Resources.resources
+E:\项目\2014项目\毕业设计\RemoteControl\CustomCommandPlugin\obj\Debug\CustomCommandPlugin.csproj.GenerateResource.Cache
+E:\项目\2014项目\毕业设计\RemoteControl\CustomCommandPlugin\obj\Debug\CustomCommandPlugin.dll
+E:\项目\2014项目\毕业设计\RemoteControl\CustomCommandPlugin\obj\Debug\CustomCommandPlugin.pdb
